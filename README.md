@@ -55,5 +55,3 @@ We welcome contributions to ProtoHax! If you would like to contribute, please fo
 
 ## Disclaimer
 Please use ProtoHax at your own risk. We **DO NOT** take responsibility for any bans or punishments that may occur as a result of using this cheat.
-
-
